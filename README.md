@@ -26,8 +26,8 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daftyy&layout=compact&theme=material-palenight" width = 400/>
 </a>
   <h2>📫 How to reach me:</h2>
-  <a href="https://www.linkedin.com/in/neavepaul/"><img src="linkedin-icon-2.svg" width=100></a>
+  <a href="https://www.linkedin.com/in/neavepaul/"><img src="linkedin-icon-2.svg" width=40></a>
   &nbsp&nbsp
-  <a href="mailto:neave.mailbox@gmail.com?"><img src ="official-gmail-icon-2020-.svg"</a> 
+  <a href="mailto:neave.mailbox@gmail.com?"><img src ="official-gmail-icon-2020-.svg" width= 40</a> 
   <br><br>
     <img src="https://komarev.com/ghpvc/?username=daftyy&color=blueviolet">
