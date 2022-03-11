@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3>🔭 I’m currently working on IoT Projects <br> 🌱 I’m currently learning Machine Learning and Web Development  👨🏻‍💻<h3>
 <h1>
 <a href="https://github.com/daftyy/github-readme-stats">
-  <img  src="https://github-readme-stats.vercel.app/api?username=daftyy&show_icons=true&theme=material-palenight" alt="github stats" width = 460/>
+  <img  src="https://github-readme-stats.vercel.app/api?username=daftyy&show_icons=true&theme=material-palenight" alt="github stats" width = 465/>
 </a>
 
   
