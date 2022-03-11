@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/daftyy/github-readme-stats">
   <img  src="https://github-readme-stats.vercel.app/api?username=daftyy&show_icons=true&theme=material-palenight" alt="github stats" width = 400/>
 </a>
+  <br>
 <a href="https://github.com/daftyy/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daftyy&layout=compact&theme=material-palenight" width = 400/>
 </a>
