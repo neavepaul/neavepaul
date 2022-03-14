@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <img src="1603970252682.jpg" width = 100%>
-<h3>Pursuing my Bachelors in Computer Engineering 💻 <br> Enthusiastic about Web development and UI/UX design </h3>
+<h3>Pursuing my Bachelors in Computer Engineering 💻 <br> Enthusiastic about solving challenges that I come across with code.</h3>
 
 <h3>🔭 I’m currently working on IoT Projects <br> 🌱 I’m currently learning Machine Learning and Web Development  👨🏻‍💻<h3>
 <h1>
