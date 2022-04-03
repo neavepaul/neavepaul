@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <img src="1603970252682.jpg" width = 100%>
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 <h3>Pursuing my Bachelors in Computer Engineering 💻 <br> Enthusiastic about solving challenges that I come across with code.</h3>
 
 <h3>🛠️ I’m currently building my [Personal Webpage] (https://bit.ly/neavepaul/) <br> 🌱 I’m currently learning Machine Learning and Web Development  👨🏻‍💻<h3>
@@ -38,4 +39,3 @@ Here are some ideas to get you started:
     <br>
     <img src="https://komarev.com/ghpvc/?username=daftyy&color=blueviolet">
     
-    My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
