@@ -12,12 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[This is an external link to genome.gov] (https://www.genome.gov/)
 
 <img src="1603970252682.jpg" width = 100%>
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 <h3>Pursuing my Bachelors in Computer Engineering 💻 <br> Enthusiastic about solving challenges that I come across with code.</h3>
 
-<h3>🛠️ I’m currently building my [Personal Webpage] (https://bit.ly/neavepaul/) <br> 🌱 I’m currently learning Machine Learning and Web Development  👨🏻‍💻<h3>
+<h3>🛠️ I’m currently building my [Personal Webpage] (https://bit.ly/neavepaul) <br> 🌱 I’m currently learning Machine Learning and Web Development  👨🏻‍💻<h3>
 <h1>
 <a href="https://github.com/daftyy/github-readme-stats">
   <img  src="https://github-readme-stats.vercel.app/api?username=daftyy&show_icons=true&theme=material-palenight" alt="github stats" width = 475/>
