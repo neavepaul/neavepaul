@@ -37,3 +37,5 @@ Here are some ideas to get you started:
   <br>
     <br>
     <img src="https://komarev.com/ghpvc/?username=daftyy&color=blueviolet">
+    
+    My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
