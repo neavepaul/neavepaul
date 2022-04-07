@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="1603970252682.jpg" width = 100%>
+<img src="banner.jpg" width = 100%>
 <h3>Pursuing my Bachelors in Computer Engineering 💻 <br> Enthusiastic about solving challenges that I come across with code.</h3>
 
 <h3>🛠️ I’m currently building my <a href="http://bit.ly/neavepaul">Personal Webpage</a> and trying to recreate games in Python with my own touch.<br> 
@@ -27,9 +27,9 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daftyy&layout=compact&theme=material-palenight" width = 400/>
 </a>
   <h2>📫 How to reach me:</h2>
-  <a href="https://www.linkedin.com/in/neavepaul/"><img src="linkedin-icon-2.svg" width=40></a>
+  <a href="https://www.linkedin.com/in/neavepaul/"><img src="linkedin.svg" width=40></a>
   &nbsp&nbsp
-  <a href="mailto:neave.mailbox@gmail.com?"><img src ="official-gmail-icon-2020-.svg" width= 40</a> 
+  <a href="mailto:neave.mailbox@gmail.com?"><img src ="gmail.svg" width= 40</a> 
   &nbsp&nbsp
   <a href="http://discordapp.com/users/792220933912920081"><img src ="discord.svg" width= 40</a>
   &nbsp&nbsp
