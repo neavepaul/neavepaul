@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <img src="1603970252682.jpg" width = 100%>
 <h3>Pursuing my Bachelors in Computer Engineering 💻 <br> Enthusiastic about solving challenges that I come across with code.</h3>
 
-<h3>🛠️ I’m currently building my <a href="http://bit.ly/neavepaul">Personal Webpage</a> and building small games in Python.<br> 
+<h3>🛠️ I’m currently building my <a href="http://bit.ly/neavepaul">Personal Webpage</a> and trying to recreate small games in Python with my own touch.<br> 
  <h3>🌱 I’m currently learning Machine Learning and Web Development  👨🏻‍💻<h3>
 <h1>
 <a href="https://github.com/daftyy/github-readme-stats">
