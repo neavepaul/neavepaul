@@ -33,7 +33,9 @@ Here are some ideas to get you started:
   &nbsp&nbsp
   <a href="http://discordapp.com/users/792220933912920081"><img src ="discord.svg" width= 40</a>
   &nbsp&nbsp
-  <a href="https://twitter.com/iamneavepaul?t=o3PegXya5wlzrBGe6SY3dQ&s=08"><img src ="twitter.svg" width= 40</a>
+  <a href="https://twitter.com/iamneavepaul"><img src ="twitter.svg" width= 40</a>
+  &nbsp&nbsp
+  <a href="http://bit.ly/neavepaul"><img src ="internet.svg" width= 40</a>
   <br>
     <br>
     <img src="https://komarev.com/ghpvc/?username=daftyy&color=blueviolet">
