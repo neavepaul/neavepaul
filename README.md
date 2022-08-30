@@ -1,7 +1,7 @@
 ## Hi there 👋 Neave here!
 
 <!--
-**daftyy/daftyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**neavepaul/neavepaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -19,12 +19,12 @@ Here are some ideas to get you started:
  <h3>🌱 I’m currently learning Machine Learning and Web Development  👨🏻‍💻<h3>
 <h1>
 <a href="https://github.com/daftyy/github-readme-stats">
-  <img  src="https://github-readme-stats.vercel.app/api?username=daftyy&show_icons=true&theme=material-palenight" alt="github stats" width = 475/>
+  <img  src="https://github-readme-stats.vercel.app/api?username=neavepaul&show_icons=true&theme=material-palenight" alt="github stats" width = 475/>
 </a>
 
   
 <a href="https://github.com/daftyy/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daftyy&layout=compact&theme=material-palenight" width = 400/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neavepaul&layout=compact&theme=material-palenight" width = 400/>
 </a>
   <h2>📫 How to reach me:</h2>
   <a href="https://www.linkedin.com/in/neavepaul/"><img src="linkedin.svg" width=40></a>
@@ -40,5 +40,5 @@ Here are some ideas to get you started:
   <a href="http://bit.ly/neavepaul"><img src ="internet.svg" width= 40</a>
   <br>
     <br>
-    <img src="https://komarev.com/ghpvc/?username=daftyy&color=blueviolet">
+    <img src="https://komarev.com/ghpvc/?username=neavepaul&color=blueviolet">
     
