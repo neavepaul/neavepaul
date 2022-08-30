@@ -24,10 +24,7 @@ Here are some ideas to get you started:
 
   
 <a href="https://github.com/daftyy/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neavepaul&layout=compact&hide_title=true&theme=material-palenight" width = 485/>
-  
-<img align="right" height=125px width=600px src="https://github-readme-stats.vercel.app/api/top-langs/?username=neavepaul&layout=compact&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true&hide=tcl,jupyter%20notebook&langs_count=10"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neavepaul&layout=compact&hide_title=true&theme=material-palenight" width = 475/>
 
 </a>
   <h2>📫 How to reach me:</h2>
