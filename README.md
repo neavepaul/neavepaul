@@ -1,4 +1,4 @@
-## Hi there 👋 Neave here!
+
 
 <!--
 **neavepaul/neavepaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="banner.jpg" width = 100%>
+<img src="Neave-geometric-banner-access.png" width = 100%>
 <h3>Pursuing my Bachelors in Computer Engineering 💻 <br> Enthusiastic about solving challenges that I come across with code.</h3>
 
-<h3>🛠️ I’m currently building my <a href="http://bit.ly/neavepaul">Personal Webpage</a> and trying to recreate games in Python with my own touch.<br> 
+<h3>🛠️ Open to collaborating on meaningful projects.<br> 
  <h3>🌱 I’m currently learning Machine Learning and Web Development  👨🏻‍💻<h3>
 <h1>
 <a href="https://github.com/daftyy/github-readme-stats">
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/iamneavepaul"><img src ="twitter.svg" width= 40</a>
 -->
   &nbsp&nbsp
-  <a href="http://bit.ly/neavepaul"><img src ="internet.svg" width= 40</a>
+  <a href="https://bit.ly/NeavePaul"><img src ="internet.svg" width= 40</a>
   <br>
     <br>
     <img src="https://komarev.com/ghpvc/?username=neavepaul&color=blueviolet">
