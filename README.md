@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   &nbsp&nbsp
   <a href="https://twitter.com/iamneavepaul"><img src ="twitter.svg" width= 40</a>
   &nbsp&nbsp
-  <a href="https://bit.ly/NeavePaul"><img src ="internet.svg" width= 40</a>
+  <a href="https://neavepaul.github.io"><img src ="internet.svg" width= 40</a>
   <br>
     <br>
     <img src="https://komarev.com/ghpvc/?username=neavepaul&color=blueviolet">
