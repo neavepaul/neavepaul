@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 <h3>🛠️ Open to collaborating on meaningful projects.<br> 
  <h3>🌱 I’m currently learning Machine Learning and Web Development  👨🏻‍💻<h3>
 <h1>
-<a href="https://github.com/daftyy/github-readme-stats">
+<a href="https://github.com/neavepaul/github-readme-stats">
   <img  src="https://github-readme-stats.vercel.app/api?username=neavepaul&show_icons=true&theme=material-palenight" alt="github stats" width = 475/>
 </a>
 
   
-<a href="https://github.com/daftyy/github-readme-stats">
+<a href="https://github.com/neavepaul/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neavepaul&layout=compact&hide_title=true&theme=material-palenight" width = 475/>
 
 </a>
