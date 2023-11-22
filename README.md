@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrOVNl_TF8bIlrUV55Ukuh_FF_OlVaFT-n-Y1nIDwPqDFMCHz1qDAQbdf4v1ezz2wSoIQAOQRLVuHK8JE4EQqV7Gua-Bb1KkLrQFt9v_0nwkey8LV2sKveN8oG522AukjfyVRNYWoqC59UoSQY9OgWdWSNREGgydONE5a_HcsaV8pLxxc7J16byWh-fMM/s320/Neave-geometric-banner-access.png" width = 100%>
+<img src="https://media.licdn.com/dms/image/C4D16AQHFErrg7gkqVA/profile-displaybackgroundimage-shrink_350_1400/0/1660991830988?e=1706140800&v=beta&t=ccH6NldopM25qP_Job3CMPN7rnO36M3aKmVzT_TfsvM" width = 100%>
 <h3>Pursuing my Bachelors in Computer Engineering 💻 <br> Enthusiastic about solving challenges that I come across with code.</h3>
 
 <h3>🛠️ Open to collaborating on meaningful projects.<br> 
