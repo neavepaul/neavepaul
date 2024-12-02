@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://media.licdn.com/dms/image/C4D16AQHFErrg7gkqVA/profile-displaybackgroundimage-shrink_350_1400/0/1660991830988?e=1706140800&v=beta&t=ccH6NldopM25qP_Job3CMPN7rnO36M3aKmVzT_TfsvM" width = 100%>
+<img src="https://github.com/neavepaul/neavepaul/blob/main/Neave-geometric-banner-access.png" width = 100%>
 <h3>Pursuing my Bachelors in Computer Engineering 💻 <br> Enthusiastic about solving challenges that I come across with code.</h3>
 
 <h3>🛠️ Open to collaborating on meaningful projects.<br> 
